@@ -38,3 +38,5 @@ function startGame() {
 }
 
 document.getElementById('start-game').addEventListener('click', startGame);
+
+// Test
